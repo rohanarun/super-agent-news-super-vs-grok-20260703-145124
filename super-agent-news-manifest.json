@@ -1,0 +1,29 @@
+{
+  "citations": [
+    "[theaijournal.co](https://theaijournal.co/2026/05/grok-4-3-benchmarks-agentic-tasks-2026/)",
+    "[moneycontrol.com](https://www.moneycontrol.com/news/technology/xai-rolls-out-grok-voice-ai-agent-builder-to-let-users-create-ai-voice-agents-in-under-two-minutes-2026.html)",
+    "[blog.google](https://blog.google/technology/ai/introducing-computer-use-in-gemini-3-5-flash/)",
+    "[memeburn.com](https://memeburn.com/2026/06/google-gives-gemini-3-5-flash-computer-use-for-ai-agents/)",
+    "[tradingview.com](https://www.tradingview.com/news/)",
+    "[techradar.com](https://www.techradar.com/features/which-ai-chatbot-is-right-for-you)"
+  ],
+  "design_plan": "rng(seed=42)->hero_media=hero-0607-2-3.mp4; AIDA: attention(hero), interest(benchmarks), desire(cache economics), action(CTA); hero math max-width=1120px ensures 2\u20133 lines; bento density verified via grid-auto-flow:dense; label sweep includes Folk, Orchids, Siri, ChatGPT, Gemini, Grok; button contrast black/white checked.",
+  "generated_at": "2026-07-03T14:51:31.143896+00:00",
+  "headline": "Super vs Grok \u2014 personal AI agents for real computer work",
+  "site_brief": {
+    "audience": "people comparing Super with Grok",
+    "competitor": "Grok",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs Grok. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "Grok AI agent",
+      "Grok AI assistant",
+      "Grok automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-grok",
+    "title": "Super vs Grok"
+  },
+  "summary": "A fair, evidence\u2011based comparison of Super and Grok for people choosing a personal AI agent. Grok excels at real\u2011time intelligence and agentic benchmarks; Super is purpose\u2011built for durable computer\u2011use workflows with a reusable computer\u2011use cache that makes repeated work faster and cheaper over time."
+}
